@@ -14,3 +14,8 @@ env/
 .DS_Store
 Thumbs.db
 
+# Tableau Backups
+~*.twb
+~*.twbr
+
+
